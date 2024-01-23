@@ -16,7 +16,7 @@ Skills:
 - **iOS :** Xcode, Swift, SwiftUI, UiKit, Swift Concurrency, Combine Framework, Unit Testing, UI Testing
 - **Game Development :** Unity3D, C#, Unity Tool Development, Optimisation, AR, Unity UI, Gameplay Programming, 
 - **Architectures :** SOLID, Design patterns, TDD, MVVM, MVP, MVM, etc
--** Miscilinous :** OOP, Git, C, C++, Project Management, English
+- **Miscilinous :** OOP, Git, C, C++, Project Management, English
 
 
 
